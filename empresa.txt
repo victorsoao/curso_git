@@ -17,3 +17,8 @@ asdsaasdasdasd
 
 asdsaasdasd
 
+<<<<<<< Updated upstream
+Teste 123 
+
+=======
+>>>>>>> Stashed changes
